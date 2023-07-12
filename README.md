@@ -12,7 +12,9 @@
 
 ## About The Project
 
-https://github.com/prathmesh-yakkaldevi/Smart_Brain/assets/62748359/56f68103-9931-4c9e-873c-3f83a7880d8f
+
+https://github.com/prathmesh-yakkaldevi/Smart_Brain/assets/62748359/96a584d1-ba86-405b-9950-d3bcfd426996
+
 
 This project utilizes HTML, CSS, JS, React, Node.js, and PostgreSQL to create a user-friendly web application. By implementing microservices architecture and integrating with a clarifai face detection API, users can submit images and receive precise face coordinates. The application also includes a tracking system to monitor user requests. With meticulous attention to detail and a focus on user experience.
 
